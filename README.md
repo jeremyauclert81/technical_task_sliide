@@ -1,3 +1,16 @@
+# Observations:
+1. The login details in the challenge instructions are wrong.
+2. Impossible to launch the app with saved login state after quitting the app.
+3. Login button is enabled without anything o=in the login fields
+4. No form validation in login fields
+
+# Additional info
+I have used the robot pattern, a method I find particularly useful as it helps keeping the code in the test pages clean, readbale and is alo then reusable very easily.
+
+
+
+
+
 # Sliide QA Technical Test
 ## Congratulations, you have reached the next stage which is solving a Sliide practical test.
 ##### Please create your own repo and share the solution with us
